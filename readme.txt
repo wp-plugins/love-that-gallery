@@ -16,6 +16,10 @@ Love That Gallery allows users to upload their own photos, or use the ones alrea
 
 Upload the plugin to the WordPress plugin directory( `/wp-content/plugins/` directory) , activate, and start creating galleries in the Settings section!
 
+== Tutorials ==
+
+Please see http://www.lovethatplugin.com for all of the tutorials!
+
 == Changelog ==
 
 = 0.0 = 
